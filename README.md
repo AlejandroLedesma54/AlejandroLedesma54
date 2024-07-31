@@ -1,6 +1,6 @@
 👋 Hey there, I'm @AlejandroLedesma54 but you can call me Pancake!
 
-👀 I'm keen on diving into UX and UI design, frontend technologies, and exploring the world of artificial intelligence and machine learning.
+👀 I'm keen on diving into UX and UI design, frontend technologies, and exploring the world of the backend development.
 
 🌱 Currently, I'm on a learning journey, seeking tutorials, mentors, and portfolios from professionals already excelling in these fields.
 
