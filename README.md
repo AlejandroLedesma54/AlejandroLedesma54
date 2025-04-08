@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm on a learning journey, seeking tutorials, mentors, and portfolios from professionals already excelling in these fields.
 
-💼 I'm open to collaboration on projects related to UX/UI design or frontend development.
+💼 I'm open to collaboration on projects related to machine learning or data science.
 
 📫 Reach out to me at davidnaples2020@gmail.com if you'd like to connect or share resources!
 
